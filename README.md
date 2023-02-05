@@ -9,13 +9,13 @@ The Network Institute provided us with access to computers and virtual reality e
 The focus of the Network Institute on interdisciplinary research aligns with the goals of our project. As digital technologies continue to shape and impact society, it is crucial to have a multidisciplinary approach to different fields of study, even in the most artistic fields. Our project aims to achieve this interdisciplinary focus by supporting an artistic and historical project using cutting-edge technologies.
 
 <p float="left">
-  <img src="image1.jpeg" width="500" /> 
-  <img src="scan1.jpeg" width="500" />
+  <img src="image1.jpeg" width="300" /> 
+  <img src="scan1.jpeg" width="300" />
 </p>
 
 <p float="left">
-  <img src="image2.jpeg" width="500" />
-  <img src="scan2.jpeg" width="500" />
+  <img src="image2.jpeg" width="300" />
+  <img src="scan2.jpeg" width="300" />
 </p>
 
 ### Final Video
