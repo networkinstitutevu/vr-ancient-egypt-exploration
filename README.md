@@ -8,6 +8,16 @@ As part of the Artificial Intelligence Honours Programme at Vrije University and
 The Network Institute provided us with access to computers and virtual reality equipment from the Game Cella Lab on a weekly basis, enabling us to carry out our project.
 The focus of the Network Institute on interdisciplinary research aligns with the goals of our project. As digital technologies continue to shape and impact society, it is crucial to have a multidisciplinary approach to different fields of study, even in the most artistic fields. Our project aims to achieve this interdisciplinary focus by supporting an artistic and historical project using cutting-edge technologies.
 
+<p float="left">
+  <img src="image1.jpeg" width="100" /> 
+  <img src="scan1.jpeg" width="100" />
+</p>
+
+<p float="left">
+  <img src="image2.jpeg" width="100" />
+  <img src="scan2.jpeg" width="100" />
+</p>
+
 ### Final Video
 
 The final video of the project can be accessed through this link: https://youtu.be/xMC9_qskFIg
