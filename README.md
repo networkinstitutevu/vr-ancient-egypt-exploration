@@ -31,4 +31,4 @@ Music in the video: https://www.youtube.com/watch?v=jdFwhhH2x7I&ab_channel=oldmo
 
 Music in the demo: https://m.youtube.com/watch?v=JV4Td91MfkY
 
-Main assets used: https://assetstore.unity.com/packages/3d/environments/historic/ancient-egypt-pack-low-poly-189720
+Paid assets used: https://assetstore.unity.com/packages/3d/environments/historic/ancient-egypt-pack-low-poly-189720 , https://assetstore.unity.com/packages/3d/environments/historic/egyptian-temples-189992
